@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/TXIR01
-summary: null
+summary: The module is useful for quick implementation SPI IR transmitter
